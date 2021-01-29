@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824512981226",
+    "project_id": "actividadinterfaces",
+    "storage_bucket": "actividadinterfaces.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824512981226:android:48e5355b85a1ad231ccf93",
+        "android_client_info": {
+          "package_name": "com.example.actividadinterfacesfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824512981226-njsrsm5ir95o49ngcbvk59imgn189hv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAltDsxjZFbgSvSv0eODVjKZbK76rClCSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824512981226-njsrsm5ir95o49ngcbvk59imgn189hv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
